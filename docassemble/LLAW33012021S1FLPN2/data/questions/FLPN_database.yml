@@ -1,0 +1,315 @@
+---
+  # SA GOVERNMENT REGIONS
+    # 1 - Adelaide Hills
+    # 2 - Barossa Light and Lower North
+    # 3 - Eastern Adelaide
+    # 4 - Eyre Western
+    # 5 - Far North
+    # 6 - Fleurieu and Kangaroo Island
+    # 7 - Limestone Coast
+    # 8 - Murrary and Mallee
+    # 9 - Northern Adelaide
+    # 10 - Southern Adelaide
+    # 11 - Western Adelaide
+    # 12 - Yorke and Mid North
+
+variable name: FLPN2_lawyerlist
+use objects: true
+data:
+  - lawyer: Kerry Antoniou
+    law_firm: Alpha Family Lawyers
+    address: Level 3, 97 Pirie Street, Adelaide, South Australia 5000
+    email: contact@alphafamilylawyers.com.au
+    phone: 08 7129 4411
+    website: https://www.alphafamilylawyers.com.au
+    experience: |
+        - 18 Years experience [BR]
+        - 80-100% work week spent on family law [BR]
+        - Independant Children's Lawyer [BR]
+        - Member of the Legal Services Commission [BR]
+        - Can speak Greek [BR]
+    fees: |
+        - $550 per hour [BR]
+        - Free half hour consult [BR]
+        - Can defer frees on property settlement matters [BR]
+    service_area:
+        - 3
+    language: true
+  - lawyer: Andrew Barnes
+    law_firm: BBS Family Lawyers & Mediators
+    address: Level 4/420 King William Street, Adelaide, South Australia, 5000
+    email: andrew.barnes@bbslawyers.com.au
+    phone: 08 8110 2300
+    website: https://bbslawyers.com.au/
+    experience: |
+      - 20+ Years Experience [BR]
+      - 80-100% work week spent on family law [BR]
+      - Experience in family trusts [BR]
+    fees: |
+      Fee information not provided. Please contact lawyer for further details.
+    service_area:
+      - 3
+    language: false
+  - lawyer: Sophie Bell
+    law_firm: BBS Lawyers
+    address: Level 4, 420 King Williams Street, Adelaide, SA 5000
+    email: admin@bbslawyers.com.au
+    phone: 08 8110 2300
+    website: https://bbslawyers.com.au/
+    experience: |
+      - 8 Years experience [BR]
+      - 80-100% work week spent on family law [BR]
+      - Member of Law Society of South Australia [BR]
+      - Member of Family Law Section of the Law Council of Australia [BR]
+      - Doyles Guide: 2019 & 2020 Rising Star [BR]
+      - 2019 & 2020 First Tier Family Law Firm [BR]
+    fees: |
+      - $418 per hour [BR]
+    service_area:
+      - 3
+    language: false
+  - lawyer: Madeleine Betro
+    law_firm: Stanley & Co
+    address: 75 Angas Street, Adelaide, South Australia 5000
+    email: madeleine@stanlaw.com.au
+    phone: 08 7001 6135
+    website: https://www.stanlaw.com.au/
+    experience: |
+      - 4 Years experience [BR]
+      - 80-100% work week spent on family law. [BR]
+      - Experience in trusts [BR]
+      - Experience in collaborative practice [BR]
+    fees: |
+      - $429 per hour [BR]
+      - Fixed fees for Consent Orders, Mediation, Parenting Plans, and Court Documents [BR]
+      - **Offers first consult free** [BR]
+    service_area:
+      - 3
+      - 10
+    language: false
+  - lawyer: Annette Comley
+    law_firm: Comley Legal
+    address: 146 Gilles Street, Adelaide, South Australia 5000
+    email: admin@comleylegal.com.au
+    phone: 08 7226 5051
+    website: https://comleylegal.com.au
+    experience: |
+      - 8 Years Experience [BR]
+      - 80-100% work week spent on family law [BR]
+      - Nationally Accredited Mediator [BR]
+      - Collaborative Practitioner [BR]
+      - Independant Children's Lawyer [BR]
+      - Member of Legal Services Commission [BR]
+    fees: |
+      - $420 per hour plus GST [BR]
+      - Flexible payment options (including fixed fee and deferment) can be discussed [BR]
+      - May provide low-income options [BR]
+      - May provide legal aid. [BR]
+    service_area:
+      - 3
+    language: true
+  - lawyer: Jeremy Culshaw
+    law_firm: Culshaw Miller Lawyers 
+    address: 49 Hindmarsh Square, Adelaide, South Australia 5000
+    email: jeremy.culshaw@culshawmiller.com.au
+    phone: Landline 08 8464 0033 Mobile 0411 698 475
+    website: https://www.culshawmiller.com.au
+    experience: |
+      - 20+ years experience [BR]
+      - 80-100% work week spent on family law [BR]
+      - Member of Family Law Council 2006 to 2012 [BR]
+      - Accredited Specialist [BR]
+      - Member of the Legal Services Commission [BR]
+      - Can utilise interpreter services for other languages [BR]
+      - Experience in family trusts [BR]
+      - Experience in trusts and estates [BR]
+      - Experience in company business law [BR]
+      - Experience in collaborative practice [BR]
+    fees: |
+      - $440 to $660 depending on nature of the matter [BR]
+      - May provide low-income payment options [BR]
+      - May defer fees on property matters [BR]
+    service_area:
+      - 3
+    language: true
+  - lawyer: Linda Gross
+    law_firm: L.G. Lawyers
+    address: 3/10 Gawler Street, Mount Barker, South Australia 5251
+    email: admin@lglawyers.com.au
+    phone: 0414 825 555
+    website: https://www.lglawyers.com.au
+    experience: |
+      - 20+ years experience [BR]
+      - 80-100% work week spent on family law [BR]
+      - Independant children's lawyer [BR]
+      - Member of the Legal Services Comission [BR]
+    fees: |
+      - $440 per hour [BR]
+      - May provide fixed fees depending on the nature of the matter [BR]
+      - May provide legal aid [BR]
+      - May defer fees on property matters [BR]
+      - **Offers first consult free** [BR]
+      - 
+    service_area:
+      - 1
+    language: false
+  - lawyer: Sam Lehman
+    law_firm: Culshaw Miller Lawyers
+    address: 49 Hindmarsh Square, Adelaide, South Australia 5000
+    email: sam.lehman@culshawmiller.com.au
+    phone: 08 8464 0033
+    website: https://www.culshawmiller.com.au
+    experience: |
+      - 7 years experience [BR]
+      - 80-100% work week spent on family law [BR]
+      - Member of the Legal Services Commission [BR]
+      
+    fees: |
+      - $418 per hour [BR]
+      - May be able to provide low-income payment options [BR]
+    service_area:
+      - 3
+    language: false
+  - lawyer: Shaya Lewis-Dermody
+    law_firm: The Family Law Project
+    address: 5/19 Market Street, Adelaide, South Australia 5000
+    email: lawyers@familylawproject.com.au
+    phone: 0423 267 644
+    website: https://www.familylawproject.com.au
+    experience: |
+      - 18 years experience [BR]
+      - 80-100% work week spent on family law [BR]
+      - Independant Children's Lawyer [BR]
+      - Specialist Family Lawyer [BR]
+      - Member of the Legal Services Commission [BR]
+      - Can speak Italian or Arabic [BR]
+    fees: |
+      - Offers fixed-fee payment option [BR]
+      - **Offers first consult free** [BR]
+      - May provide legal aid [BR]
+      - May defer fees on property settlement [BR]
+      - May provide low-income payment options [BR]
+    service_area:
+      - 3
+    language: true
+  - lawyer: Natalie Lloyd
+    law_firm: Scammell & Co
+    address: 86 Franklin Street, Adelaide, South Australia 5000
+    email: nlloyd@scammell.com.au
+    phone: 08 8212 6875
+    website: https://www.scammell.com.au
+    experience: |
+      - 3 years experience [BR]
+      - 80-100% work week spent on family law [BR]
+      - Experience in family dispute resolution [BR]
+      - Experience in family trusts [BR]
+      - Experience in company business law [BR]
+      - Experience in collaborative practice [BR]
+    fees: |
+      - Offers fixed fee payment options on Divorce matters [BR]
+      - **Offers first consult free** [BR]
+      - May defer fees on property settlement [BR]
+    service_area:
+      - 1
+      - 2
+      - 3
+      - 9
+      - 10
+      - 11
+    language: false
+  - lawyer: Sam Ngai
+    law_firm: Scammell & Co.
+    address: 86 Franklin Street, Adelaide, South Australia 5000
+    email: sngai@scammell.com.au
+    phone: 08 8212 6875
+    website: https://www.scammell.com.au
+    experience: |
+      - 12 years experience [BR]
+      - 80-100% work week spent on family law [BR]
+      - Can utilise translating services for other languages [BR]
+    fees: |
+      - $462 per hour [BR]
+      - May offer fixed fees on Divorce matters [BR]
+      - May defer fees on property settlement [BR]
+      - May provide low-income payment options [BR]
+    service_area:
+      - 1
+      - 3
+      - 9
+      - 10
+      - 11
+    language: true
+  - lawyer: Jacinta Robinson
+    law_firm: Varga Lawyers
+    address: Suite 405, Level 4, 22 Grenfell Street, Adelaide, South Australia 5000
+    email: jacinta@varga.com.au
+    phone: 0432 255 626
+    website: https://www.varga.com.au/
+    experience: |
+      - 2 years experience [BR]
+      - 60-80% work week spent on family law [BR]
+      - Can speak Indonesian and Spanish [BR]
+    fees: |
+      - May offer scale fees [BR]
+      - May offer low-income payment options (including via RapidPay) [BR]
+    service_area:
+      - 3
+    language: true
+  - lawyer: Amra Sabou
+    law_firm: Stanley & Co
+    address: 75 Angas Street, Adelaide, South Australia 5000
+    email: amra@stanlaw.com.au
+    phone: 08 7001 6135
+    website: https://www.stanlaw.com.au/
+    experience: |
+      - 12 years experience [BR]
+      - 80-100% work week spent on family law [BR]
+      - Member of the Legal Services Commission [BR]
+      - Experience in family dispute resolution [BR]
+      - Experience in family trusts [BR]
+      - Experience in collaborative practice [BR]
+    fees: |
+      - Fixed fees on all services [BR]
+      - $462 per hour [BR]
+      - May defer fees on property settlement [BR]
+      - **Offers first consult free** [BR]
+      - May offer low-income payment options [BR]
+    service_area:
+      - 3
+      - 10
+    language: false
+  - lawyer: Larissa Stevens
+    law_firm: Stevens Law
+    address: Level 4, 195 Victoria Square, Adelaide, South Australia 5000
+    email: larisda@stevenslaw.com.au
+    phone: 08 8470 0313
+    website: https://www.stevenslaw.com.au
+    experience: |
+      - 20+ years experience [BR]
+      - 80-100% work week spent on family law [BR]
+      - Member of the Legal Services Commission [BR]
+      - Experience in family dispute resolution [BR]
+    fees: |
+      - May provide legal aid [BR]
+      - May offer low-income payment options [BR]
+      - $400-$500 per hour [BR]
+      - Fixed fees available on Amicable Consent Orders ($3,300), Negotiated Consent Orders ($3,300 - $5,500), and Divorces ($550 - $1,100) [BR]
+    service_area:
+      - 3
+    language: false
+  - lawyer: Sharon Thomas
+    law_firm: BBS Family Lawyers & Mediators
+    address: Level 4/420 King William Street, Adelaide, South Australia 5000
+    email: sharon.thomas@bbslawyers.com.au
+    phone: 08 8110 2300
+    website: https://bbslawyers.com.au/
+    experience: |
+      - 20+ years experience [BR]
+      - 80-100% work week spent on family law [BR]
+      - Experience in family trusts [BR]
+    fees: |
+      Fee information not provided. Please contact lawyer for further details. [BR]
+    service_area:
+      - 3
+    language: false
+---
